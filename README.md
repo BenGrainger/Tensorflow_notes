@@ -1,7 +1,7 @@
 # Tensorflow_notes
-Notes from imperials tensorflow specialization on coursera.
+Notes from imperials tensorflow specialization and deeplearning.ai developer certificate on coursera.
 
-much of the code in this is not mine and was written by Imperial College London.
+much of the code in this is not mine and was written by Imperial College London and deeplearning.ai respectively.
 
 Also please do not copy the assignment code as that goes against coursera Policy.
 
